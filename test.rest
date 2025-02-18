@@ -1,0 +1,8 @@
+POST http://localhost:9000/user HTTP/1.1
+content-type: application/json
+
+{
+    "username": "sample",
+    "password": "Wed, 21 Oct 2015 18:27:50 GMT",
+    "email": "t@gmail.com"
+}
